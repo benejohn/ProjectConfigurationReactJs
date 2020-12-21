@@ -26,4 +26,6 @@ end_of_line = true" </p>
   <li>AirBnb</li>
   <li>JSON</li>
   <li>Would you like to install them now with npm? <b>NO</b></li>
+  <li> Copy all extensions and use yarn to install</li>
+  <li> <b>Only a Example, put -D at the end:</b>  "yarn add eslint-plugin-react@^7.21.5 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import@^2.22.1 eslint-plugin-jsx-a11y@^6.4.1 eslint-plugin-react-hooks@ ^2.5.0 @typescript-eslint/parser@latest -D"</li>
 <ol>
