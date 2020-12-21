@@ -11,3 +11,17 @@
 insert_final_newline = true
 
 end_of_line = true" </p>
+
+<h2>Configure Eslint in ReactJs</h2>
+<ul>
+  <li>1. yarn add eslint -D</li>
+  <li>2. Delete "eslintConfig" from package.json</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+<ul>
