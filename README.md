@@ -4,7 +4,7 @@
 <p>Deleted some files dont used as favicoin.."
   
 <p> First step is generate editorconfig in VsCode</p>
-<p> added the lines in .editconfig</p> 
+<b><p> added the lines in .editconfig</p></b>
 <p>
 "trim_trailing_whitespace = true
   
