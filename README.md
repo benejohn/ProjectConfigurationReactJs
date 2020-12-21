@@ -12,7 +12,7 @@ insert_final_newline = true
 
 end_of_line = true" </p>
 
-<h2>Configure Eslint in ReactJs</h2>
+<h3>Configure Eslint and Prettier in ReactJs</h3>
 <ol>
   <li>yarn add eslint -D</li>
   <li>Delete "eslintConfig" from package.json</li>
@@ -30,4 +30,10 @@ end_of_line = true" </p>
   <li> <b>Only a Example, put -D at the end:</b>  "yarn add eslint-plugin-react@^7.21.5 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import@^2.22.1 eslint-plugin-jsx-a11y@^6.4.1 eslint-plugin-react-hooks@ ^4 @typescript-eslint/parser@latest -D"</li>
   <li> Create .eslintignore and add some rules in .eslint.json</li>
   <li> add eslint-import-resolver-typescript as "yarn add eslint-import-resolver-typescript -D"</li>
+  <li> add Prettier use "yarn add prettier eslint-config-prettier eslint-plugin-prettier -D"</li>
+  <li> after it configure .eslintrc.json</li>
 <ol>
+  
+<h2>I have uploaded some files to use in others projects</h2>
+  
+ 
