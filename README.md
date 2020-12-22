@@ -14,7 +14,7 @@ end_of_line = true" </p>
 
 <h3>Configure Eslint and Prettier in ReactJs</h3>
 <ol>
-  <li>yarn add eslint -D</li>
+  <li>"yarn add eslint -D" to install eslint</li>
   <li>Delete "eslintConfig" from package.json</li>
   <li>yarn eslint --init</li>
   <li>To check syntax, find problems, and enforce code style </li>
