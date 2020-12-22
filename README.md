@@ -36,4 +36,8 @@ end_of_line = true" </p>
   
 <h2>I have uploaded some files to use in others projects</h2>
   
+ <p>We need add "yarn add react-router-dom" to navegation to some pages in our project </p>
  
+ <p>We need create a folder in "src" with name "routes" to create routes in our project  </p>
+ 
+ <p>We need create a folder in "src" with name "pages" to create the pages in our project  </p>
